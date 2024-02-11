@@ -1,4 +1,4 @@
-# ImageProcessing Demo
+# ImageProcessing 
 
 This web app is an image processing tool.
 The frontend is built using: HTML, JS, Jquery and CSS.
